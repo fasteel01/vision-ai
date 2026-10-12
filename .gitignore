@@ -1,0 +1,19 @@
+# 데이터셋·가중치·압축파일은 올리지 않기 (용량 큼, Colab에서 다시 받으면 됨)
+data/
+images/
+annotations/
+*.zip
+*.pt
+*.pth
+*.safetensors
+*.ckpt
+
+# 개인정보가 들어간 보고서 원본 (학번 등)
+reports_private/
+*.docx
+
+# OS / 에디터
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+.vscode/

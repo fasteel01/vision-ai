@@ -1,0 +1,9 @@
+# Google Colab (T4 GPU) 기본 환경 + 아래 패키지
+torch
+torchvision
+transformers
+pycocotools
+timm
+segmentation-models-pytorch
+scipy
+matplotlib

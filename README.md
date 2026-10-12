@@ -10,7 +10,7 @@
 | 주차 | Task | 모델 (Hugging Face) | 데이터 | 핵심 결과 | 노트북 |
 |---|---|---|---|---|---|
 | 5주차 | 객체 검출 (Object Detection) | RT-DETR-R18, DETR-R50, YOLOS-tiny | COCO val2017 (200장) | RT-DETR mAP 0.495 / 19.6 FPS | [object_detection.ipynb](week05_object-detection/object_detection.ipynb) |
-| 6주차 | 세분화 (Segmentation) | U-Net, SegFormer-B0, SAM | Oxford-IIIT Pet | (작성 예정) | [segmentation.ipynb](week06_segmentation/segmentation.ipynb) |
+| 6주차 | 세분화 (Segmentation) | SAM, SegFormer-B0, U-Net | Oxford-IIIT Pet (1,000/300장) | SegFormer IoU 0.910 · SAM(zero-shot) 0.733 | [segmentation.ipynb](week06_segmentation/segmentation.ipynb) |
 
 ## 폴더 구조
 

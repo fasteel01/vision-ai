@@ -1,0 +1,230 @@
+{
+  "env": {
+    "gpu": "NVIDIA L4",
+    "vram_GB": 23.7,
+    "torch": "2.11.0+cu130",
+    "transformers": "5.20.1"
+  },
+  "data": {
+    "n_total_with_hp": 13139,
+    "n_cards": 200,
+    "n_sets": 100,
+    "n_special_name": 41,
+    "img_size_example": [
+      734,
+      1024
+    ]
+  },
+  "seed": 42,
+  "models": {
+    "EasyOCR": {
+      "params": "CRAFT+CRNN (~0.1B 미만)",
+      "peak_vram_GB": 0.57,
+      "name_acc": 0.76,
+      "name_CER": 0.0954,
+      "hp_acc": 0.83,
+      "both_acc": 0.66,
+      "name_acc_plain": 0.9057,
+      "name_acc_special": 0.1951,
+      "sec_per_card": 0.421
+    },
+    "GLM-OCR": {
+      "params": "1.11B",
+      "peak_vram_GB": 2.41,
+      "name_acc": 0.975,
+      "name_CER": 0.0052,
+      "hp_acc": 1.0,
+      "both_acc": 0.975,
+      "name_acc_plain": 0.9937,
+      "name_acc_special": 0.9024,
+      "sec_per_card": 0.788
+    },
+    "Qwen3.5-9B": {
+      "params": "9.41B",
+      "peak_vram_GB": 19.16,
+      "name_acc": 0.98,
+      "name_CER": 0.0047,
+      "hp_acc": 1.0,
+      "both_acc": 0.98,
+      "name_acc_plain": 0.9937,
+      "name_acc_special": 0.9268,
+      "sec_per_card": 2.604
+    }
+  },
+  "error_examples": {
+    "EasyOCR": [
+      {
+        "id": "xy9-76",
+        "gt_name": "Scizor-EX",
+        "gt_hp": "170",
+        "pred_name": "Scizor",
+        "pred_hp": "170"
+      },
+      {
+        "id": "xy3-108",
+        "gt_name": "Dragonite-EX",
+        "gt_hp": "180",
+        "pred_name": "Dragonite]",
+        "pred_hp": ""
+      },
+      {
+        "id": "pop8-3",
+        "gt_name": "Luxray",
+        "gt_hp": "120",
+        "pred_name": "LuxraywvA5",
+        "pred_hp": "120"
+      },
+      {
+        "id": "ex14-90",
+        "gt_name": "Blaziken ex",
+        "gt_hp": "150",
+        "pred_name": "Blaziken ex",
+        "pred_hp": "50"
+      },
+      {
+        "id": "swsh35-21",
+        "gt_name": "Galarian Cursola V",
+        "gt_hp": "190",
+        "pred_name": "Cursola",
+        "pred_hp": "190"
+      },
+      {
+        "id": "dp4-67",
+        "gt_name": "Feebas",
+        "gt_hp": "30",
+        "pred_name": "Feebasv.4",
+        "pred_hp": "30"
+      },
+      {
+        "id": "pl2-31",
+        "gt_name": "Raichu GL",
+        "gt_hp": "80",
+        "pred_name": "",
+        "pred_hp": ""
+      },
+      {
+        "id": "swsh9-105",
+        "gt_name": "Zamazenta V",
+        "gt_hp": "220",
+        "pred_name": "Zamazenta'",
+        "pred_hp": "220"
+      },
+      {
+        "id": "xy4-115",
+        "gt_name": "Malamar-EX",
+        "gt_hp": "170",
+        "pred_name": "MalamarL",
+        "pred_hp": "17"
+      },
+      {
+        "id": "xy4-121",
+        "gt_name": "M Gengar-EX",
+        "gt_hp": "220",
+        "pred_name": "MGengar_",
+        "pred_hp": ""
+      },
+      {
+        "id": "swsh10tg-TG15",
+        "gt_name": "Ice Rider Calyrex VMAX",
+        "gt_hp": "320",
+        "pred_name": "IceRider",
+        "pred_hp": ""
+      },
+      {
+        "id": "pl4-94",
+        "gt_name": "Arceus LV.X",
+        "gt_hp": "120",
+        "pred_name": "ArceuswX",
+        "pred_hp": "120"
+      },
+      {
+        "id": "base6-38",
+        "gt_name": "Dark Dragonair",
+        "gt_hp": "60",
+        "pred_name": "Put Dark Dragonair on the Basic Pokemon",
+        "pred_hp": "60"
+      },
+      {
+        "id": "xy6-98",
+        "gt_name": "Thundurus-EX",
+        "gt_hp": "170",
+        "pred_name": "Thundurus",
+        "pred_hp": "17"
+      },
+      {
+        "id": "swsh11-177",
+        "gt_name": "Rotom V",
+        "gt_hp": "190",
+        "pred_name": "Rotom",
+        "pred_hp": "190"
+      }
+    ],
+    "GLM-OCR": [
+      {
+        "id": "pl2-31",
+        "gt_name": "Raichu GL",
+        "gt_hp": "80",
+        "pred_name": "Raichu",
+        "pred_hp": "80"
+      },
+      {
+        "id": "swshp-SWSH064",
+        "gt_name": "Eternatus V",
+        "gt_hp": "220",
+        "pred_name": "Eternatus",
+        "pred_hp": "220"
+      },
+      {
+        "id": "pl1-125",
+        "gt_name": "Palkia G LV.X",
+        "gt_hp": "120",
+        "pred_name": "Palkia LV.X",
+        "pred_hp": "120"
+      },
+      {
+        "id": "ex6-32",
+        "gt_name": "Drowzee",
+        "gt_hp": "50",
+        "pred_name": "Drowsee",
+        "pred_hp": "50"
+      },
+      {
+        "id": "ex7-104",
+        "gt_name": "Rocket's Snorlax ex",
+        "gt_hp": "100",
+        "pred_name": "Snorlax ex",
+        "pred_hp": "100"
+      }
+    ],
+    "Qwen3.5-9B": [
+      {
+        "id": "pl2-31",
+        "gt_name": "Raichu GL",
+        "gt_hp": "80",
+        "pred_name": "Raichu",
+        "pred_hp": "80"
+      },
+      {
+        "id": "pl1-125",
+        "gt_name": "Palkia G LV.X",
+        "gt_hp": "120",
+        "pred_name": "Palkia LV.X",
+        "pred_hp": "120"
+      },
+      {
+        "id": "ex6-32",
+        "gt_name": "Drowzee",
+        "gt_hp": "50",
+        "pred_name": "Drowsee",
+        "pred_hp": "50"
+      },
+      {
+        "id": "ex7-104",
+        "gt_name": "Rocket's Snorlax ex",
+        "gt_hp": "100",
+        "pred_name": "Snorlax ex",
+        "pred_hp": "100"
+      }
+    ]
+  }
+}

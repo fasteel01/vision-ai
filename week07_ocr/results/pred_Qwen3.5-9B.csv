@@ -1,0 +1,1365 @@
+id,gt_name,gt_hp,special,pred_name,pred_hp,raw,sec,name_ok,name_cer,hp_ok,both_ok
+swsh1-64,Frosmoth,90,False,Frosmoth,90,"```json
+{
+    ""name"": ""Frosmoth"",
+    ""hp"": ""90""
+}
+```
+",2.7409022340002593,True,0.0,True,True
+xy5-28,Blaziken,140,False,Blaziken,140,"```json
+{
+    ""name"": ""Blaziken"",
+    ""hp"": ""140""
+}
+```
+",2.7399143560000994,True,0.0,True,True
+sm3-96,Ribombee,70,False,Ribombee,70,"```json
+{
+    ""name"": ""Ribombee"",
+    ""hp"": ""70""
+}
+```
+",2.6646542490002503,True,0.0,True,True
+swsh1-23,Ninetales,120,False,Ninetales,120,"```json
+{
+    ""name"": ""Ninetales"",
+    ""hp"": ""120""
+}
+```
+",2.813009367000177,True,0.0,True,True
+xy9-76,Scizor-EX,170,True,ScizorEX,170,"```json
+{
+    ""name"": ""ScizorEX"",
+    ""hp"": ""170""
+}
+```
+",2.801936324000053,True,0.0,True,True
+ex6-72,Paras,50,False,Paras,50,"```json
+{""name"": ""Paras"", ""hp"": ""50""}
+```
+",2.0806444439999723,True,0.0,True,True
+xy3-108,Dragonite-EX,180,True,DragoniteEX,180,"```json
+{
+    ""name"": ""DragoniteEX"",
+    ""hp"": ""180""
+}
+```
+",2.72673600600001,True,0.0,True,True
+swsh1-41,Cloyster,130,False,Cloyster,130,"```json
+{
+    ""name"": ""Cloyster"",
+    ""hp"": ""130""
+}
+```
+",2.655020551999769,True,0.0,True,True
+bw8-89,Klang,80,False,Klang,80,"```json
+{
+    ""name"": ""Klang"",
+    ""hp"": ""80""
+}
+```
+",2.576480873000037,True,0.0,True,True
+pop8-3,Luxray,120,False,Luxray,120,"```json
+{
+    ""name"": ""Luxray"",
+    ""hp"": ""120""
+}
+```
+",2.5385653580001417,True,0.0,True,True
+dp4-83,Slugma,60,False,Slugma,60,"```json
+{
+""name"": ""Slugma"",
+""hp"": ""60""
+}
+```
+",2.311093265999716,True,0.0,True,True
+sm2-98,Jangmo-o,60,False,Jangmo-o,60,"```json
+{
+    ""name"": ""Jangmo-o"",
+    ""hp"": ""60""
+}
+```
+",2.743589479000093,True,0.0,True,True
+sm7-18,Illumise,70,False,Illumise,70,"```json
+{
+    ""name"": ""Illumise"",
+    ""hp"": ""70""
+}
+```
+",2.651900040000328,True,0.0,True,True
+ex14-90,Blaziken ex,150,True,Blaziken ex,150,"```json
+{
+""name"": ""Blaziken ex"",
+""hp"": ""150""
+}
+```
+",2.5598361519996615,True,0.0,True,True
+swsh10-28,Psyduck,60,False,Psyduck,60,"```json
+{""name"": ""Psyduck"", ""hp"": ""60""}
+```
+",2.078186556000219,True,0.0,True,True
+swsh35-21,Galarian Cursola V,190,True,Galarian Cursola V,190,"```json
+{
+    ""name"": ""Galarian Cursola V"",
+    ""hp"": ""190""
+}
+```
+",3.0350183629998355,True,0.0,True,True
+dv1-3,Dragonair,70,False,Dragonair,70,"```json
+{
+    ""name"": ""Dragonair"",
+    ""hp"": ""70""
+}
+```
+",2.5717798910000056,True,0.0,True,True
+bw8-99,Doduo,60,False,Doduo,60,"```json
+{""name"": ""Doduo"", ""hp"": ""60""}
+```
+",2.0543984969999656,True,0.0,True,True
+swsh3-105,Darkrai,120,False,Darkrai,120,"```json
+{
+    ""name"": ""Darkrai"",
+    ""hp"": ""120""
+}
+```
+",2.6616658739999366,True,0.0,True,True
+dp4-67,Feebas,30,False,Feebas,30,"```json
+{
+    ""name"": ""Feebas"",
+    ""hp"": ""30""
+}
+```
+",2.4640369230000942,True,0.0,True,True
+pl2-31,Raichu GL,80,True,Raichu,80,"```json
+{
+""name"": ""Raichu"",
+""hp"": ""80""
+}
+```
+",2.39497862799999,False,0.25,True,False
+sm8-143,Carbink,90,False,Carbink,90,"```json
+{
+    ""name"": ""Carbink"",
+    ""hp"": ""90""
+}
+```
+",2.675896845000352,True,0.0,True,True
+swsh9-105,Zamazenta V,220,True,Zamazenta V,220,"```json
+{
+    ""name"": ""Zamazenta V"",
+    ""hp"": ""220""
+}
+```
+",2.807343786999809,True,0.0,True,True
+xy4-115,Malamar-EX,170,True,MalamarEX,170,"```json
+{
+    ""name"": ""MalamarEX"",
+    ""hp"": ""170""
+}
+```
+",2.8335181399997964,True,0.0,True,True
+xy4-121,M Gengar-EX,220,True,MGengarEX,220,"```json
+{
+    ""name"": ""MGengarEX"",
+    ""hp"": ""220""
+}
+```
+",2.7657437410002785,True,0.0,True,True
+sm6-5,Scatterbug,30,False,Scatterbug,30,"```json
+{
+    ""name"": ""Scatterbug"",
+    ""hp"": ""30""
+}
+```
+",2.673813957999755,True,0.0,True,True
+swsh10tg-TG15,Ice Rider Calyrex VMAX,320,True,Ice Rider Calyrex VMAX,320,"```json
+{
+    ""name"": ""Ice Rider Calyrex VMAX"",
+    ""hp"": ""320""
+}
+```
+",3.0461770319998323,True,0.0,True,True
+ex14-38,Marshtomp,70,False,Marshtomp,70,"```json
+{
+    ""name"": ""Marshtomp"",
+    ""hp"": ""70""
+}
+```
+",2.599013811000077,True,0.0,True,True
+base4-97,Venonat,40,False,Venonat,40,"```json
+{
+    ""name"": ""Venonat"",
+    ""hp"": ""40""
+}
+```
+",2.4546491469996,True,0.0,True,True
+sm6-94,Goodra,160,False,Goodra,160,"```json
+{
+    ""name"": ""Goodra"",
+    ""hp"": ""160""
+}
+```
+",2.6622684689996277,True,0.0,True,True
+ex3-17,Magneton,70,False,Magneton,70,"```json
+{
+    ""name"": ""Magneton"",
+    ""hp"": ""70""
+}
+```
+",2.586417036000057,True,0.0,True,True
+pl4-94,Arceus LV.X,120,True,Arceus LV.X,120,"```json
+{
+    ""name"": ""Arceus LV.X"",
+    ""hp"": ""120""
+}
+```
+",2.7603588619999755,True,0.0,True,True
+swshp-SWSH079,Galarian Mr. Rime,120,False,Galarian Mr. Rime,120,"```json
+{
+    ""name"": ""Galarian Mr. Rime"",
+    ""hp"": ""120""
+}
+```
+",3.031371128000046,True,0.0,True,True
+sm1-18,Bounsweet,60,False,Bounsweet,60,"```json
+{
+    ""name"": ""Bounsweet"",
+    ""hp"": ""60""
+}
+```
+",2.645336524999948,True,0.0,True,True
+ex5-81,Vulpix,50,False,Vulpix,50,"```json
+{
+""name"": ""Vulpix"",
+""hp"": ""50""
+}
+```
+",2.373827062000146,True,0.0,True,True
+base6-38,Dark Dragonair,60,False,Dark Dragonair,60,"```json
+{
+""name"": ""Dark Dragonair"",
+""hp"": ""60""
+}
+```
+",2.366297820999989,True,0.0,True,True
+xy6-98,Thundurus-EX,170,True,ThundurusEX,170,"```json
+{
+    ""name"": ""ThundurusEX"",
+    ""hp"": ""170""
+}
+```
+",2.791594571999667,True,0.0,True,True
+base1-17,Beedrill,80,False,Beedrill,80,"```json
+{""name"": ""Beedrill"", ""hp"": ""80""}
+```
+",2.015799042999788,True,0.0,True,True
+bw4-42,Shinx,60,False,Shinx,60,"```json
+{""name"": ""Shinx"", ""hp"": ""60""}
+```
+",2.067047854000066,True,0.0,True,True
+swsh3-10,Accelgor,90,False,Accelgor,90,"```json
+{
+    ""name"": ""Accelgor"",
+    ""hp"": ""90""
+}
+```
+",2.649792011000045,True,0.0,True,True
+swsh11-177,Rotom V,190,True,Rotom V,190,"```json
+{
+    ""name"": ""Rotom V"",
+    ""hp"": ""190""
+}
+```
+",2.725713567999719,True,0.0,True,True
+swshp-SWSH064,Eternatus V,220,True,Eternatus V,220,"```json
+{
+    ""name"": ""Eternatus V"",
+    ""hp"": ""220""
+}
+```
+",2.792780023999967,True,0.0,True,True
+swsh8-51,Cloyster,130,False,Cloyster,130,"```json
+{
+    ""name"": ""Cloyster"",
+    ""hp"": ""130""
+}
+```
+",2.638465221000388,True,0.0,True,True
+bw10-96,Virizion-EX,170,True,VirizionEX,170,"```json
+{
+    ""name"": ""VirizionEX"",
+    ""hp"": ""170""
+}
+```
+",2.722525545999815,True,0.0,True,True
+ecard3-83,Nidorina,80,False,Nidorina,80,"```json
+{
+""name"": ""Nidorina"",
+""hp"": ""80""
+}
+```
+",2.369078035000257,True,0.0,True,True
+xy6-35,M Gallade-EX,220,True,MGalladeEX,220,"```json
+{
+    ""name"": ""MGalladeEX"",
+    ""hp"": ""220""
+}
+```
+",2.782222931999968,True,0.0,True,True
+ex8-36,Lunatone,60,False,Lunatone,60,"```json
+{
+    ""name"": ""Lunatone"",
+    ""hp"": ""60""
+}
+```
+",2.6030686970002535,True,0.0,True,True
+xy7-52,Ralts,60,False,Ralts,60,"```json
+{
+    ""name"": ""Ralts"",
+    ""hp"": ""60""
+}
+```
+",2.5881060949996026,True,0.0,True,True
+bw1-64,Krokorok,90,False,Krokorok,90,"```json
+{
+    ""name"": ""Krokorok"",
+    ""hp"": ""90""
+}
+```
+",2.713152244000412,True,0.0,True,True
+dp2-38,Ursaring,100,False,Ursaring,100,"```json
+{
+""name"": ""Ursaring"",
+""hp"": ""100""
+}
+```
+",2.447613143000126,True,0.0,True,True
+ex6-73,Pidgey,50,False,Pidgey,50,"```json
+{
+""name"": ""Pidgey"",
+""hp"": ""50""
+}
+```
+",2.498131696999735,True,0.0,True,True
+bw10-68,Fraxure,80,False,Fraxure,80,"```json
+{
+    ""name"": ""Fraxure"",
+    ""hp"": ""80""
+}
+```
+",2.6408446329996877,True,0.0,True,True
+bw11-80,Lucario,100,False,Lucario,100,"```json
+{
+    ""name"": ""Lucario"",
+    ""hp"": ""100""
+}
+```
+",2.639961372999551,True,0.0,True,True
+hgss2-89,Ursaring,110,False,Ursaring,110,"```json
+{
+    ""name"": ""Ursaring"",
+    ""hp"": ""110""
+}
+```
+",2.712924190999729,True,0.0,True,True
+pl4-22,Manectric,90,False,Manectric,90,"```json
+{
+""name"": ""Manectric"",
+""hp"": ""90""
+}
+```
+",2.3548534490000748,True,0.0,True,True
+swsh11-57,Magnezone VSTAR,270,True,Magnezone VSTAR,270,"```json
+{
+    ""name"": ""Magnezone VSTAR"",
+    ""hp"": ""270""
+}
+```
+",2.8590456789997916,True,0.0,True,True
+dp4-73,Kakuna,80,False,Kakuna,80,"```json
+{""name"": ""Kakuna"", ""hp"": ""80""}
+```
+",1.9986040370004048,True,0.0,True,True
+sm75-48,White Kyurem-GX,190,True,White Kyurem GX,190,"```json
+{
+    ""name"": ""White Kyurem GX"",
+    ""hp"": ""190""
+}
+```
+",2.85597283900006,True,0.0,True,True
+bw2-11,Whimsicott,80,False,Whimsicott,80,"```json
+{
+    ""name"": ""Whimsicott"",
+    ""hp"": ""80""
+}
+```
+",2.709230626000135,True,0.0,True,True
+pop2-2,Pidgeot,80,False,Pidgeot,80,"```json
+{
+""name"": ""Pidgeot"",
+""hp"": ""80""
+}
+```
+",2.37210818199992,True,0.0,True,True
+swsh10-21,Ponyta,60,False,Ponyta,60,"```json
+{
+    ""name"": ""Ponyta"",
+    ""hp"": ""60""
+}
+```
+",2.618313778999891,True,0.0,True,True
+bw8-64,Trubbish,60,False,Trubbish,60,"```json
+{
+    ""name"": ""Trubbish"",
+    ""hp"": ""60""
+}
+```
+",2.6108373730003223,True,0.0,True,True
+hgss3-15,Honchkrow,90,False,Honchkrow,90,"```json
+{
+    ""name"": ""Honchkrow"",
+    ""hp"": ""90""
+}
+```
+",2.607359057999929,True,0.0,True,True
+bw8-82,Purrloin,50,False,Purrloin,50,"```json
+{
+    ""name"": ""Purrloin"",
+    ""hp"": ""50""
+}
+```
+",2.696039918999759,True,0.0,True,True
+ecard1-26,Rapidash,70,False,Rapidash,70,"```json
+{
+    ""name"": ""Rapidash"",
+    ""hp"": ""70""
+}
+```
+",2.478686949999883,True,0.0,True,True
+sm115-13,Staryu,50,False,Staryu,50,"```json
+{
+    ""name"": ""Staryu"",
+    ""hp"": ""50""
+}
+```
+",2.607911158999741,True,0.0,True,True
+sm3-7,Tangela,80,False,Tangela,80,"```json
+{
+    ""name"": ""Tangela"",
+    ""hp"": ""80""
+}
+```
+",2.609833747999801,True,0.0,True,True
+bw4-72,Shiftry,130,False,Shiftry,130,"```json
+{
+    ""name"": ""Shiftry"",
+    ""hp"": ""130""
+}
+```
+",2.711143744999845,True,0.0,True,True
+sm9-72,Primeape,90,False,Primeape,90,"```json
+{
+    ""name"": ""Primeape"",
+    ""hp"": ""90""
+}
+```
+",2.5614399819996834,True,0.0,True,True
+swshp-SWSH247,Regigigas,150,False,Regigigas,150,"```json
+{
+    ""name"": ""Regigigas"",
+    ""hp"": ""150""
+}
+```
+",2.696242357000301,True,0.0,True,True
+hsp-HGSS19,Raikou,80,False,Raikou,80,"```json
+{
+    ""name"": ""Raikou"",
+    ""hp"": ""80""
+}
+```
+",2.639456943999903,True,0.0,True,True
+swsh7-216,Garbodor VMAX,330,True,Garbodor VMAX,330,"```json
+{
+    ""name"": ""Garbodor VMAX"",
+    ""hp"": ""330""
+}
+```
+",2.8596985129997847,True,0.0,True,True
+bw9-110,Thundurus-EX,170,True,ThundurusEX,170,"```json
+{
+    ""name"": ""ThundurusEX"",
+    ""hp"": ""170""
+}
+```
+",2.77644052200003,True,0.0,True,True
+pl1-125,Palkia G LV.X,120,True,Palkia LV.X,120,"```json
+{
+    ""name"": ""Palkia LV.X"",
+    ""hp"": ""120""
+}
+```
+",2.7349442210002053,False,0.1,True,False
+xy6-32,Banette,90,False,Banette,90,"```json
+{
+    ""name"": ""Banette"",
+    ""hp"": ""90""
+}
+```
+",2.564164900999913,True,0.0,True,True
+ecard3-19,Magneton,80,False,Magneton,80,"```json
+{
+""name"": ""Magneton"",
+""hp"": ""80""
+}
+```
+",2.296344644999863,True,0.0,True,True
+sm8-32,Vespiquen,120,False,Vespiquen,120,"```json
+{
+    ""name"": ""Vespiquen"",
+    ""hp"": ""120""
+}
+```
+",2.7813432819998525,True,0.0,True,True
+sm2-73,Rockruff,60,False,Rockruff,60,"```json
+{
+    ""name"": ""Rockruff"",
+    ""hp"": ""60""
+}
+```
+",2.6437034909999966,True,0.0,True,True
+gym2-45,Giovanni's Nidorino,70,False,Giovanni's Nidorino,70,"```json
+{
+""name"": ""Giovanni's Nidorino"",
+""hp"": ""70""
+}
+```
+",2.6290717829997448,True,0.0,True,True
+bw6-101,Slakoth,60,False,Slakoth,60,"```json
+{
+    ""name"": ""Slakoth"",
+    ""hp"": ""60""
+}
+```
+",2.6357981810001547,True,0.0,True,True
+bw2-20,Darumaka,70,False,Darumaka,70,"```json
+{
+    ""name"": ""Darumaka"",
+    ""hp"": ""70""
+}
+```
+",2.6477820940003767,True,0.0,True,True
+bw8-76,Riolu,70,False,Riolu,70,"```json
+{
+    ""name"": ""Riolu"",
+    ""hp"": ""70""
+}
+```
+",2.6556441390002874,True,0.0,True,True
+sm3-59,Espurr,60,False,Espurr,60,"```json
+{
+    ""name"": ""Espurr"",
+    ""hp"": ""60""
+}
+```
+",2.5788491280000017,True,0.0,True,True
+ecard3-H16,Magcargo,80,False,Magcargo,80,"```json
+{
+""name"": ""Magcargo"",
+""hp"": ""80""
+}
+```
+",2.317555054999957,True,0.0,True,True
+bw9-48,Espeon,90,False,Espeon,90,"```json
+{
+    ""name"": ""Espeon"",
+    ""hp"": ""90""
+}
+```
+",2.5919659860001047,True,0.0,True,True
+bw6-91,Garchomp,140,False,Garchomp,140,"```json
+{
+    ""name"": ""Garchomp"",
+    ""hp"": ""140""
+}
+```
+",2.7572022489998744,True,0.0,True,True
+sm10-97,Quagsire,120,False,Quagsire,120,"```json
+{
+    ""name"": ""Quagsire"",
+    ""hp"": ""120""
+}
+```
+",2.7565390360000492,True,0.0,True,True
+xy7-2,Gloom,80,False,Gloom,80,"```json
+{
+    ""name"": ""Gloom"",
+    ""hp"": ""80""
+}
+```
+",2.607177892999971,True,0.0,True,True
+col1-SL10,Rayquaza,100,False,Rayquaza,100,"```json
+{
+    ""name"": ""Rayquaza"",
+    ""hp"": ""100""
+}
+```
+",2.762365681999654,True,0.0,True,True
+hgss4-1,Aggron,140,False,Aggron,140,"```json
+{
+    ""name"": ""Aggron"",
+    ""hp"": ""140""
+}
+```
+",2.749993594999978,True,0.0,True,True
+smp-SM203,Tapu Fini,120,False,Tapu Fini,120,"```json
+{
+    ""name"": ""Tapu Fini"",
+    ""hp"": ""120""
+}
+```
+",2.8088476130001254,True,0.0,True,True
+dp7-73,Skorupi,60,False,Skorupi,60,"```json
+{
+    ""name"": ""Skorupi"",
+    ""hp"": ""60""
+}
+```
+",2.502136172000064,True,0.0,True,True
+sm3-62,Palossand,130,False,Palossand,130,"```json
+{
+    ""name"": ""Palossand"",
+    ""hp"": ""130""
+}
+```
+",2.7300306239999372,True,0.0,True,True
+ex2-39,Kabuto,60,False,Kabuto,60,"```json
+{
+    ""name"": ""Kabuto"",
+    ""hp"": ""60""
+}
+```
+",2.2874532569999246,True,0.0,True,True
+ex15-66,Taillow δ,40,True,Taillow,40,"```json
+{
+""name"": ""Taillow"",
+""hp"": ""40""
+}
+```
+",2.302504061000036,True,0.0,True,True
+ex13-100,Mew ex,90,True,Mew ex,90,"```json
+{
+""name"": ""Mew ex"",
+""hp"": ""90""
+}
+```
+",2.401968131999638,True,0.0,True,True
+sm10-5,Oddish,50,False,Oddish,50,"```json
+{
+    ""name"": ""Oddish"",
+    ""hp"": ""50""
+}
+```
+",2.6124180439996962,True,0.0,True,True
+ecard1-106,Diglett,40,False,Diglett,40,"```json
+{
+""name"": ""Diglett"",
+""hp"": ""40""
+}
+```
+",2.320084229999793,True,0.0,True,True
+sm35-3,Venusaur,160,False,Venusaur,160,"```json
+{
+    ""name"": ""Venusaur"",
+    ""hp"": ""160""
+}
+```
+",2.7383417269998063,True,0.0,True,True
+xy6-5,Beautifly,130,False,Beautifly,130,"```json
+{
+    ""name"": ""Beautifly"",
+    ""hp"": ""130""
+}
+```
+",2.8086858779997783,True,0.0,True,True
+swsh8-2,Metapod,80,False,Metapod,80,"```json
+{
+    ""name"": ""Metapod"",
+    ""hp"": ""80""
+}
+```
+",2.664408323999851,True,0.0,True,True
+sm10-201,Greninja & Zoroark-GX,250,True,Greninja&Zoroark GX,250,"```json
+{
+    ""name"": ""Greninja&Zoroark GX"",
+    ""hp"": ""250""
+}
+```
+",3.100164711999696,True,0.0,True,True
+pl4-46,Ponyta,40,False,Ponyta,40,"```json
+{
+""name"": ""Ponyta"",
+""hp"": ""40""
+}
+```
+",2.3833274319999873,True,0.0,True,True
+neo1-37,Granbull,70,False,Granbull,70,"```json
+{
+""name"": ""Granbull"",
+""hp"": ""70""
+}
+```
+",2.3104415749999134,True,0.0,True,True
+swsh4-25,Charizard,170,False,Charizard,170,"```json
+{
+    ""name"": ""Charizard"",
+    ""hp"": ""170""
+}
+```
+",2.6658759450001526,True,0.0,True,True
+xy1-67,Conkeldurr,140,False,Conkeldurr,140,"```json
+{
+    ""name"": ""Conkeldurr"",
+    ""hp"": ""140""
+}
+```
+",2.802394750000076,True,0.0,True,True
+smp-SM188,Kangaskhan-GX,180,True,Kangaskhan GX,180,"```json
+{
+    ""name"": ""Kangaskhan GX"",
+    ""hp"": ""180""
+}
+```
+",2.8653038989996276,True,0.0,True,True
+ex8-61,Goldeen,50,False,Goldeen,50,"```json
+{""name"": ""Goldeen"", ""hp"": ""50""}
+```
+",1.9304413620002379,True,0.0,True,True
+swsh11-79,Comfey,70,False,Comfey,70,"```json
+{
+    ""name"": ""Comfey"",
+    ""hp"": ""70""
+}
+```
+",2.6354293120002694,True,0.0,True,True
+neo3-21,Raichu,80,False,Raichu,80,"```json
+{
+""name"": ""Raichu"",
+""hp"": ""80""
+}
+```
+",2.394974944000296,True,0.0,True,True
+bwp-BW17,Ducklett,60,False,Ducklett,60,"```json
+{
+    ""name"": ""Ducklett"",
+    ""hp"": ""60""
+}
+```
+",2.6823679190001712,True,0.0,True,True
+swsh1-42,Krabby,80,False,Krabby,80,"```json
+{
+    ""name"": ""Krabby"",
+    ""hp"": ""80""
+}
+```
+",2.672312593999777,True,0.0,True,True
+sm6-140,Ultra Necrozma-GX,190,True,Ultra Necrozma GX,190,"```json
+{
+    ""name"": ""Ultra Necrozma GX"",
+    ""hp"": ""190""
+}
+```
+",2.900628871999743,True,0.0,True,True
+bw1-56,Duosion,60,False,Duosion,60,"```json
+{
+    ""name"": ""Duosion"",
+    ""hp"": ""60""
+}
+```
+",2.6808607140001186,True,0.0,True,True
+swsh11-124,Radiant Steelix,170,False,Radiant Steelix,170,"```json
+{
+    ""name"": ""Radiant Steelix"",
+    ""hp"": ""170""
+}
+```
+",2.8192384230001153,True,0.0,True,True
+xy7-60,Goodra,150,False,Goodra,150,"```json
+{
+    ""name"": ""Goodra"",
+    ""hp"": ""150""
+}
+```
+",2.6638377660001424,True,0.0,True,True
+sma-SV12,Frogadier,80,False,Frogadier,80,"```json
+{
+    ""name"": ""Frogadier"",
+    ""hp"": ""80""
+}
+```
+",2.6605014650003795,True,0.0,True,True
+xy12-49,Drowzee,60,False,Drowzee,60,"```json
+{
+    ""name"": ""Drowzee"",
+    ""hp"": ""60""
+}
+```
+",2.66832144800037,True,0.0,True,True
+xyp-XY108,Machamp-EX,180,True,MachampEX,180,"```json
+{
+    ""name"": ""MachampEX"",
+    ""hp"": ""180""
+}
+```
+",2.8225284029999784,True,0.0,True,True
+mcd21-4,Turtwig,80,False,Turtwig,80,"```json
+{
+    ""name"": ""Turtwig"",
+    ""hp"": ""80""
+}
+```
+",2.661267493000196,True,0.0,True,True
+xy8-30,Starmie,90,False,Starmie,90,"```json
+{
+    ""name"": ""Starmie"",
+    ""hp"": ""90""
+}
+```
+",2.646862584000246,True,0.0,True,True
+bw6-32,Buizel,70,False,Buizel,70,"```json
+{
+    ""name"": ""Buizel"",
+    ""hp"": ""70""
+}
+```
+",2.6523348670002633,True,0.0,True,True
+swsh3-20,Charizard VMAX,330,True,Charizard VMAX,330,"```json
+{
+    ""name"": ""Charizard VMAX"",
+    ""hp"": ""330""
+}
+```
+",2.8271177999999964,True,0.0,True,True
+ex15-64,Smoochum δ,40,True,Smoochum,40,"```json
+{
+""name"": ""Smoochum"",
+""hp"": ""40""
+}
+```
+",2.4473467990001154,True,0.0,True,True
+xyp-XY150,Yveltal-EX,170,True,YveltalEX,170,"```json
+{
+    ""name"": ""YveltalEX"",
+    ""hp"": ""170""
+}
+```
+",2.805756782000117,True,0.0,True,True
+xyp-XY53,Sceptile-EX,170,True,SceptileEX,170,"```json
+{
+    ""name"": ""SceptileEX"",
+    ""hp"": ""170""
+}
+```
+",2.8142775259998416,True,0.0,True,True
+swsh4-33,Oshawott,70,False,Oshawott,70,"```json
+{
+    ""name"": ""Oshawott"",
+    ""hp"": ""70""
+}
+```
+",2.6636948320001466,True,0.0,True,True
+ex6-32,Drowzee,50,False,Drowsee,50,"```json
+{
+""name"": ""Drowsee"",
+""hp"": ""50""
+}
+```
+",2.5262317789997724,False,0.14285714285714285,True,False
+np-6,Torchic,40,False,Torchic,40,"```json
+{
+""name"": ""Torchic"",
+""hp"": ""40""
+}
+```
+",2.3871485770000618,True,0.0,True,True
+pl1-54,Mightyena,90,False,Mightyena,90,"```json
+{
+""name"": ""Mightyena"",
+""hp"": ""90""
+}
+```
+",2.454202242000065,True,0.0,True,True
+bw1-21,Pansear,60,False,Pansear,60,"```json
+{
+    ""name"": ""Pansear"",
+    ""hp"": ""60""
+}
+```
+",2.6484462319999693,True,0.0,True,True
+base5-4,Dark Charizard,80,False,Dark Charizard,80,"```json
+{
+""name"": ""Dark Charizard"",
+""hp"": ""80""
+}
+```
+",2.3749407120003525,True,0.0,True,True
+swsh2-37,Galarian Mr. Mime,80,False,Galarian Mr. Mime,80,"```json
+{
+    ""name"": ""Galarian Mr. Mime"",
+    ""hp"": ""80""
+}
+```
+",2.861027292000017,True,0.0,True,True
+xyp-XY97,Aerodactyl-EX,170,True,AerodactylEX,170,"```json
+{
+    ""name"": ""AerodactylEX"",
+    ""hp"": ""170""
+}
+```
+",2.935060581000016,True,0.0,True,True
+xy6-65,Spearow,60,False,Spearow,60,"```json
+{
+    ""name"": ""Spearow"",
+    ""hp"": ""60""
+}
+```
+",2.640298473000257,True,0.0,True,True
+ex8-40,Metang,80,False,Metang,80,"```json
+{
+""name"": ""Metang"",
+""hp"": ""80""
+}
+```
+",2.302244447999783,True,0.0,True,True
+hgss4-36,Kangaskhan,80,False,Kangaskhan,80,"```json
+{
+    ""name"": ""Kangaskhan"",
+    ""hp"": ""80""
+}
+```
+",2.7302119020000646,True,0.0,True,True
+sm5-96,Gible,50,False,Gible,50,"```json
+{
+    ""name"": ""Gible"",
+    ""hp"": ""50""
+}
+```
+",2.5644664100000227,True,0.0,True,True
+sm8-6,Chikorita,70,False,Chikorita,70,"```json
+{
+    ""name"": ""Chikorita"",
+    ""hp"": ""70""
+}
+```
+",2.63141750900013,True,0.0,True,True
+neo2-59,Natu,40,False,Natu,40,"```json
+{
+""name"": ""Natu"",
+""hp"": ""40""
+}
+```
+",2.3006510029999845,True,0.0,True,True
+sm8-1,Tangela,80,False,Tangela,80,"```json
+{
+    ""name"": ""Tangela"",
+    ""hp"": ""80""
+}
+```
+",2.651781161999679,True,0.0,True,True
+pl3-21,Chimecho,70,False,Chimecho,70,"```json
+{
+""name"": ""Chimecho"",
+""hp"": ""70""
+}
+```
+",2.3894010559997696,True,0.0,True,True
+swsh5-120,Indeedee,90,False,IndeeDee,90,"```json
+{
+    ""name"": ""IndeeDee"",
+    ""hp"": ""90""
+}
+```
+",2.7214269569999487,True,0.0,True,True
+ex5-61,Feebas,30,False,Feebas,30,"```json
+{
+    ""name"": ""Feebas"",
+    ""hp"": ""30""
+}
+```
+",2.4224028260000523,True,0.0,True,True
+xy3-30,Electivire,120,False,Electivire,120,"```json
+{
+    ""name"": ""Electivire"",
+    ""hp"": ""120""
+}
+```
+",2.7033551579997948,True,0.0,True,True
+swsh1-211,Zacian V,220,True,Zacian V,220,"```json
+{
+    ""name"": ""Zacian V"",
+    ""hp"": ""220""
+}
+```
+",2.8082229460001145,True,0.0,True,True
+swsh7-135,Stoutland,160,False,Stoutland,160,"```json
+{
+    ""name"": ""Stoutland"",
+    ""hp"": ""160""
+}
+```
+",2.749564052999631,True,0.0,True,True
+mcd22-12,Bewear,130,False,Bewear,130,"```json
+{
+    ""name"": ""Bewear"",
+    ""hp"": ""130""
+}
+```
+",2.6452078770003027,True,0.0,True,True
+pl3-145,Garchomp C LV.X,110,True,Garchomp C LV.X,110,"```json
+{
+""name"": ""Garchomp C LV.X"",
+""hp"": ""110""
+}
+```
+",2.6637208150000333,True,0.0,True,True
+ex13-17,Vileplume δ,90,True,Vileplume,90,"```json
+{
+    ""name"": ""Vileplume"",
+    ""hp"": ""90""
+}
+```
+",2.5929563140002756,True,0.0,True,True
+base6-47,Ivysaur,60,False,Ivysaur,60,"```json
+{
+    ""name"": ""Ivysaur"",
+    ""hp"": ""60""
+}
+```
+",2.6036122460000115,True,0.0,True,True
+bw8-94,Druddigon,110,False,Druddigon,110,"```json
+{
+    ""name"": ""Druddigon"",
+    ""hp"": ""110""
+}
+```
+",2.7184386789999735,True,0.0,True,True
+dp4-90,Treecko,50,False,Treecko,50,"```json
+{
+    ""name"": ""Treecko"",
+    ""hp"": ""50""
+}
+```
+",2.454346271999839,True,0.0,True,True
+ex10-35,Bayleef,70,False,Bayleef,70,"```json
+{""name"": ""Bayleef"", ""hp"": ""70""}
+```
+",2.0020560719999594,True,0.0,True,True
+ecard1-113,Houndour,50,False,Houndour,50,"```json
+{
+    ""name"": ""Houndour"",
+    ""hp"": ""50""
+}
+```
+",2.524393391999638,True,0.0,True,True
+bw7-73,Whirlipede,100,False,Whirlipede,100,"```json
+{
+    ""name"": ""Whirlipede"",
+    ""hp"": ""100""
+}
+```
+",2.7867481620000945,True,0.0,True,True
+hgss3-63,Pineco,60,False,Pineco,60,"```json
+{""name"": ""Pineco"", ""hp"": ""60""}
+```
+",2.1326548949996322,True,0.0,True,True
+sm8-128,Durant,80,False,Durant,80,"```json
+{
+    ""name"": ""Durant"",
+    ""hp"": ""80""
+}
+```
+",2.5824734109996825,True,0.0,True,True
+sm4-59,Houndoom,110,False,Houndoom,110,"```json
+{
+    ""name"": ""Houndoom"",
+    ""hp"": ""110""
+}
+```
+",2.716558165999686,True,0.0,True,True
+pgo-59,Bidoof,70,False,Bidoof,70,"```json
+{
+    ""name"": ""Bidoof"",
+    ""hp"": ""70""
+}
+```
+",2.6309992149999744,True,0.0,True,True
+xy0-29,Bidoof,70,False,Bidoof,70,"```json
+{
+    ""name"": ""Bidoof"",
+    ""hp"": ""70""
+}
+```
+",2.6520737790001476,True,0.0,True,True
+ecard1-74,Croconaw,80,False,Croconaw,80,"```json
+{
+    ""name"": ""Croconaw"",
+    ""hp"": ""80""
+}
+```
+",2.529472977000296,True,0.0,True,True
+hgss1-13,Wobbuffet,90,False,Wobbuffet,90,"```json
+{
+    ""name"": ""Wobbuffet"",
+    ""hp"": ""90""
+}
+```
+",2.7202160100000583,True,0.0,True,True
+pop5-11,Meowth δ,40,True,Meowth,40,"```json
+{
+""name"": ""Meowth"",
+""hp"": ""40""
+}
+```
+",2.3639323439997497,True,0.0,True,True
+sm11-238,Heatran-GX,190,True,Heatran GX,190,"```json
+{
+    ""name"": ""Heatran GX"",
+    ""hp"": ""190""
+}
+```
+",2.72073837500011,True,0.0,True,True
+swsh2-181,Boltund V,200,True,Boltund V,200,"```json
+{
+    ""name"": ""Boltund V"",
+    ""hp"": ""200""
+}
+```
+",2.795321334000164,True,0.0,True,True
+sm12-69,Magneton,80,False,Magneton,80,"```json
+{
+    ""name"": ""Magneton"",
+    ""hp"": ""80""
+}
+```
+",2.5890303850001146,True,0.0,True,True
+swshp-SWSH128,Eiscue,120,False,Eiscue,120,"```json
+{
+    ""name"": ""Eiscue"",
+    ""hp"": ""120""
+}
+```
+",2.7351962160000767,True,0.0,True,True
+sm11-242,Mewtwo & Mew-GX,270,True,Mewtwo & Mew GX,270,"```json
+{
+    ""name"": ""Mewtwo & Mew GX"",
+    ""hp"": ""270""
+}
+```
+",3.015541604000191,True,0.0,True,True
+xy10-50,Carbink,90,False,Carbink,90,"```json
+{
+    ""name"": ""Carbink"",
+    ""hp"": ""90""
+}
+```
+",2.653302409999924,True,0.0,True,True
+base2-58,Oddish,50,False,Oddish,50,"```json
+{
+""name"": ""Oddish"",
+""hp"": ""50""
+}
+```
+",2.3105692130002353,True,0.0,True,True
+neo1-3,Bellossom,70,False,Bellossom,70,"```json
+{
+""name"": ""Bellossom"",
+""hp"": ""70""
+}
+```
+",2.39156471699971,True,0.0,True,True
+swsh8-25,Eldegoss,90,False,Eldegoss,90,"```json
+{
+    ""name"": ""Eldegoss"",
+    ""hp"": ""90""
+}
+```
+",2.659686873999817,True,0.0,True,True
+pgo-86,Mewtwo VSTAR,280,True,Mewtwo VSTAR,280,"```json
+{
+    ""name"": ""Mewtwo VSTAR"",
+    ""hp"": ""280""
+}
+```
+",2.886005723999915,True,0.0,True,True
+xy3-58,Landorus,120,False,Landorus,120,"```json
+{
+    ""name"": ""Landorus"",
+    ""hp"": ""120""
+}
+```
+",2.6654550439998275,True,0.0,True,True
+swsh45-64,Alcremie V,170,True,Alcremie V,170,"```json
+{
+    ""name"": ""Alcremie V"",
+    ""hp"": ""170""
+}
+```
+",2.832797630999721,True,0.0,True,True
+ecard1-94,Bulbasaur,50,False,Bulbasaur,50,"```json
+{
+    ""name"": ""Bulbasaur"",
+    ""hp"": ""50""
+}
+```
+",2.6181788509998114,True,0.0,True,True
+xyp-XY50,Pangoro,100,False,Pangoro,100,"```json
+{
+    ""name"": ""Pangoro"",
+    ""hp"": ""100""
+}
+```
+",2.7239971449998848,True,0.0,True,True
+xy6-29,Xatu,90,False,Xatu,90,"```json
+{
+    ""name"": ""Xatu"",
+    ""hp"": ""90""
+}
+```
+",2.579752670000289,True,0.0,True,True
+bw7-124,Tranquill,80,False,Tranquill,80,"```json
+{
+    ""name"": ""Tranquill"",
+    ""hp"": ""80""
+}
+```
+",2.731523778999872,True,0.0,True,True
+ecard3-150,Kabutops,90,False,Kabutops,90,"```json
+{
+""name"": ""Kabutops"",
+""hp"": ""90""
+}
+```
+",2.387255272999937,True,0.0,True,True
+swsh4-96,Mudbray,80,False,Mudbray,80,"```json
+{
+    ""name"": ""Mudbray"",
+    ""hp"": ""80""
+}
+```
+",2.739780627000073,True,0.0,True,True
+bw11-RC5,Torchic,60,False,Torchic,60,"```json
+{
+    ""name"": ""Torchic"",
+    ""hp"": ""60""
+}
+```
+",2.6563039839998055,True,0.0,True,True
+xy11-50,Chandelure,130,False,Chandelure,130,"```json
+{
+    ""name"": ""Chandelure"",
+    ""hp"": ""130""
+}
+```
+",2.7338210839998283,True,0.0,True,True
+xy2-86,Fletchling,50,False,Fletchling,50,"```json
+{
+    ""name"": ""Fletchling"",
+    ""hp"": ""50""
+}
+```
+",2.7274750360002145,True,0.0,True,True
+pl2-26,Jolteon,80,False,Jolteon,80,"```json
+{""name"": ""Jolteon"", ""hp"": ""80""}
+```
+",2.0899596750000455,True,0.0,True,True
+ex7-104,Rocket's Snorlax ex,100,True,Snorlax ex,100,"```json
+{
+""name"": ""Snorlax ex"",
+""hp"": ""100""
+}
+```
+",2.593943457000023,False,0.4375,True,False
+swsh2-80,Sigilyph,110,False,Sigilyph,110,"```json
+{
+    ""name"": ""Sigilyph"",
+    ""hp"": ""110""
+}
+```
+",2.737159625000004,True,0.0,True,True
+pop4-16,Wobbuffet,80,False,Wobbuffet,80,"```json
+{
+    ""name"": ""Wobbuffet"",
+    ""hp"": ""80""
+}
+```
+",2.626376707000418,True,0.0,True,True
+dp2-1,Aggron,130,False,Aggron,130,"```json
+{
+""name"": ""Aggron"",
+""hp"": ""130""
+}
+```
+",2.480633019999914,True,0.0,True,True
+xy5-27,Combusken,80,False,Combusken,80,"```json
+{
+    ""name"": ""Combusken"",
+    ""hp"": ""80""
+}
+```
+",2.6952137680000305,True,0.0,True,True
+swsh11-106,Binacle,70,False,Binacle,70,"```json
+{
+    ""name"": ""Binacle"",
+    ""hp"": ""70""
+}
+```
+",2.595850899999732,True,0.0,True,True
+neo1-77,Sudowoodo,60,False,Sudowoodo,60,"```json
+{
+    ""name"": ""Sudowoodo"",
+    ""hp"": ""60""
+}
+```
+",2.668995089999953,True,0.0,True,True
+ecard3-79,Murkrow,50,False,Murkrow,50,"```json
+{
+""name"": ""Murkrow"",
+""hp"": ""50""
+}
+```
+",2.379923498000153,True,0.0,True,True
+sm7-83,Minior,90,False,Minior,90,"```json
+{""name"": ""Minior"", ""hp"": ""90""}
+```
+",2.058893983999951,True,0.0,True,True
+swsh11-74,Cresselia,120,False,Cresselia,120,"```json
+{
+    ""name"": ""Cresselia"",
+    ""hp"": ""120""
+}
+```
+",2.7377159859997846,True,0.0,True,True
+gym1-95,Sabrina's Slowpoke,50,False,Sabrina's Slowpoke,50,"```json
+{""name"": ""Sabrina's Slowpoke"", ""hp"": ""50""}
+```
+",2.155262677999872,True,0.0,True,True
+dp4-36,Delibird,70,False,Delibird,70,"```json
+{
+    ""name"": ""Delibird"",
+    ""hp"": ""70""
+}
+```
+",2.523076501000105,True,0.0,True,True
+bwp-BW58,Black Kyurem,130,False,Black Kyurem,130,"```json
+{
+    ""name"": ""Black Kyurem"",
+    ""hp"": ""130""
+}
+```
+",2.8001963639999303,True,0.0,True,True
+dp6-122,Staryu,50,False,Staryu,50,"```json
+{
+    ""name"": ""Staryu"",
+    ""hp"": ""50""
+}
+```
+",2.5282657650000147,True,0.0,True,True

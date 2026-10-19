@@ -11,6 +11,7 @@
 |---|---|---|---|---|---|
 | 5주차 | 객체 검출 (Object Detection) | RT-DETR-R18, DETR-R50, YOLOS-tiny | COCO val2017 (200장) | RT-DETR mAP 0.495 / 19.6 FPS | [object_detection.ipynb](week05_object-detection/object_detection.ipynb) |
 | 6주차 | 세분화 (Segmentation) | SAM, SegFormer-B0, U-Net | Oxford-IIIT Pet (1,000/300장) | SegFormer IoU 0.910 · SAM(zero-shot) 0.733 | [segmentation.ipynb](week06_segmentation/segmentation.ipynb) |
+| 7주차 | OCR (광학 문자 인식) | Qwen3.5-9B, GLM-OCR, EasyOCR | 포켓몬 카드 200장 | 이름+HP 정답률 GLM-OCR 0.975 · Qwen 0.980 · EasyOCR 0.660 | [ocr_pokemon_cards.ipynb](week07_ocr/ocr_pokemon_cards.ipynb) |
 
 ## 폴더 구조
 
